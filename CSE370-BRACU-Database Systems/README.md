@@ -1,6 +1,6 @@
-##CSE370 Project
+## CSE370 Project
 
-###Online Exam Portal
+### Online Exam Portal
 
 Features:
 1. Admin can create subjects.
