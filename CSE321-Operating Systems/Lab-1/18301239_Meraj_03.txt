@@ -1,0 +1,22 @@
+(1)
+cd Desktop
+touch excalibur.txt
+chmod 751 excalibur.txt
+mkdir mydirectory
+cp excalibur.txt mydirectory
+rm excalibur.txt
+
+(2)
+rm -r mydirectory
+
+(3)
+ls *.txt
+
+(4)
+grep "maza" excalibur.txt maza.txt
+
+(5)
+sed -n 12,18p excalibur.txt
+
+(6)
+ls -p | grep -v /
